@@ -33,6 +33,6 @@
 
 <br />
 
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaisharx&show_icons=true&hide=["stars"]&line_height=28)
+<!--- ![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaisharx&show_icons=true&hide=["stars"]&line_height=28) --->
 
 
