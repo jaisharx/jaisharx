@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my personal projects.
 -->
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank">React</a>
-- 💬 Ask me about anything @[twitter](https://twitter.com/jaisharx)
+- 💬 Ask me about anything [@twitter](https://twitter.com/jaisharx)
 - 📫 How to reach me: <sendtojsharma@gmail.com>
 
 **Languages and Tools:**  
