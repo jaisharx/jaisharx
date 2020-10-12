@@ -1,4 +1,4 @@
-## Hi there, I'm Jai-Sharma 👋
+## Hey there, I'm Jay. 👋
 
 <!---
 - 🔭 I’m currently working on my personal projects.
